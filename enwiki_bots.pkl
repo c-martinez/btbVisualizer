@@ -1,0 +1,833 @@
+c__builtin__
+set
+p0
+((lp1
+VMMABot
+p2
+aVAlbambot
+p3
+aVDragonBot
+p4
+aVAnomieBOT III
+p5
+aVAndreasJSbot
+p6
+aVJCbot
+p7
+aVHBC AIV helperbot2
+p8
+aVNekoBot
+p9
+aVHBC AIV helperbot4
+p10
+aVHBC AIV helperbot5
+p11
+aVHBC AIV helperbot7
+p12
+aVWaldirBot
+p13
+aVNoomBot
+p14
+aVRobert SkyBot
+p15
+aVMifterBot
+p16
+aVEberBot
+p17
+aVVoxelBot
+p18
+aVH2Bot
+p19
+aVCommander Keane bot
+p20
+aVVeblenBot
+p21
+aVB-bot
+p22
+aVChzzBot
+p23
+aVKolBot
+p24
+aVOhms Law Bot
+p25
+aVRockfangBot
+p26
+aVSvenbot
+p27
+aVMifterBot I
+p28
+aVCyberbot II
+p29
+aVClueBot
+p30
+aVSporkBot
+p31
+aVClueBot II
+p32
+aVBernsteinBot
+p33
+aVAnomieBOT
+p34
+aVWebCiteBOT
+p35
+aVSPPatrolBot
+p36
+aVKgsbot
+p37
+aVReports bot
+p38
+aVRussBot
+p39
+aVDpmukBOT
+p40
+aVHBC AIV helperbot3
+p41
+aVLegobot II
+p42
+aVChartbot
+p43
+aVMdann52 IMG bot
+p44
+aVRfambot
+p45
+aVRick Bot
+p46
+aVAnomieBOT II
+p47
+aVIPLRecordsUpdateBot
+p48
+aVSharedIPArchiveBot
+p49
+aVBersibot
+p50
+aVPeople-n-photo-bot
+p51
+aVLaraBot
+p52
+aVMilHistBot
+p53
+aVSoxBot
+p54
+aVLucia Bot
+p55
+aVItalic title bot
+p56
+aVBotMultichillT
+p57
+aVGA bot
+p58
+aVChrisSalij Bot
+p59
+aVMartin's bot
+p60
+aVCeraBot
+p61
+aVRoboServien
+p62
+aVAdlerbot
+p63
+aVLivingBot
+p64
+aVClueBot NG
+p65
+aVBocianski.bot
+p66
+aVRMCD bot
+p67
+aVWikinews Importer Bot
+p68
+aVBOTijo
+p69
+aVTown-bot
+p70
+aVKocjoBot~enwiki
+p71
+aVSkiersBot
+p72
+aVWP 1.0 bot
+p73
+aVCOIBot
+p74
+aVSDPatrolBot
+p75
+aVAstaBOTh15
+p76
+aVProteinBoxBot
+p77
+aVAdminStatsBot
+p78
+aVRileyBot
+p79
+aVOKBot
+p80
+aVSandgemBot
+p81
+aVMaintenance script
+p82
+aVRscprinterBot
+p83
+aVKingpinBot
+p84
+aVMihas-bot
+p85
+aVCactusBot
+p86
+aVCleanupListingBot
+p87
+aVDusterBot
+p88
+aVTAP Bot
+p89
+aVSpaceFactsBot
+p90
+aVSahimrobot
+p91
+aVDASHBot
+p92
+aVRFC bot
+p93
+aVSoxBot II
+p94
+aVLowercase sigmabot II
+p95
+aVRezabot
+p96
+aVImageRemovalBot
+p97
+aVSpeedyBot
+p98
+aVXyBot
+p99
+aVHazard-Bot
+p100
+aVImageTaggingBot
+p101
+aVTedderBot
+p102
+aVAlphachimpbot
+p103
+aVDyceBot
+p104
+aVGurchBot
+p105
+aVMerge bot
+p106
+aVVini 17bot5
+p107
+aVUnCatBot
+p108
+aVBAGBot
+p109
+aVTom's Tagging Bot
+p110
+aVSignpost Book Bot
+p111
+aVAlaibot
+p112
+aVCitation bot
+p113
+aVPotatoBot
+p114
+aVPeerReviewBot
+p115
+aVDetroiterbot
+p116
+aVWalkingSoulBot
+p117
+aVStatisticianBot
+p118
+aVHotArticlesBot
+p119
+aVGimmeBot
+p120
+aV\u30bf\u30c1\u30b3\u30de robot
+p121
+aVListManBot
+p122
+aVCaypartisbot
+p123
+aVTFA Protector Bot
+p124
+aVSmallbot
+p125
+aVTheo's Little Bot
+p126
+aVNallimbot
+p127
+aVJohn of Reading Bot
+p128
+aVDYKHousekeepingBot
+p129
+aVScsbot
+p130
+aVClueBot VI
+p131
+aVCommonsNotification
+p132
+aVExpertIdeasBot
+p133
+aVCommonsDelinker
+p134
+aVAWeenieBot
+p135
+aVJVbot
+p136
+aVZ-BOT
+p137
+aVOne bot
+p138
+aVMedcabBot
+p139
+aVLawBot
+p140
+aVCmdrObot
+p141
+aVRFC posting script
+p142
+aVToePeu.bot
+p143
+aVSteveBot
+p144
+aVAnkitAWB
+p145
+aVCloudNineBot
+p146
+aVMerlLinkBot
+p147
+aVCrimsonBot
+p148
+aVAndersBot
+p149
+aVAZatBot~enwiki
+p150
+aVSD5bot
+p151
+aVBotPuppet
+p152
+aVClueBot IV
+p153
+aVSeveroBot
+p154
+aVMenoBot II
+p155
+aVMr.Z-bot
+p156
+aVSDPatrolBot II
+p157
+aVWoodwardBot
+p158
+aVEarwigBot
+p159
+aVHasteurBot
+p160
+aVChem-awb
+p161
+aVAEBot
+p162
+aVCydebot
+p163
+aVChzzBot III
+p164
+aVAfDStatBot
+p165
+aVVer-bot
+p166
+aVChris G Bot
+p167
+aVDpkbot
+p168
+aVLe Pied-bot~enwiki
+p169
+aVMadmanBot
+p170
+aVSoxBot VII
+p171
+aVWikipedia Signpost
+p172
+aVProject Messenger Bot
+p173
+aVMakecat-bot
+p174
+aVHarej bot
+p175
+aVTTObot
+p176
+aVDrTrigonBot
+p177
+aVJAnDbot
+p178
+aVYpnBot
+p179
+aVARSBot
+p180
+aVHBC Archive Indexerbot
+p181
+aVVIAFbot
+p182
+aVCyberbot I
+p183
+aVRob110178bot
+p184
+aVVWBot
+p185
+aVBOTarate
+p186
+aVHBC AIV helperbot11
+p187
+aVDASHBotAV
+p188
+aVStwalkerbot
+p189
+aVMetaplasticityBot
+p190
+aVAmalthea (bot)
+p191
+aVSharafBot
+p192
+aVAlekseyBot
+p193
+aVHBC NameWatcherBot
+p194
+aVFlBot
+p195
+aVFrescoBot
+p196
+aVHerculeBot
+p197
+aVStefan2bot
+p198
+aVGaneshbot
+p199
+aVJYBot
+p200
+aVFairuseBot
+p201
+aVAccReqBot
+p202
+aVProcseeBot
+p203
+aVPortal box bot
+p204
+aVJL-Bot
+p205
+aVD6
+p206
+aVHeikobot
+p207
+aVJosvebot
+p208
+aVOrphaned image deletion bot
+p209
+aVXLerateBot
+p210
+aVMuro Bot
+p211
+aVMessengerBot~enwiki
+p212
+aVMBisanzBot
+p213
+aVFlow talk page manager
+p214
+aVSoxBot V
+p215
+aVAddbot
+p216
+aVArbitrarily0Bot
+p217
+aVCrazynasBot
+p218
+aVTowBot
+p219
+aVSlobot
+p220
+aVThe wubbot
+p221
+aVH3llBot
+p222
+aVCwraschkeDataBot
+p223
+aVCorenSearchBot
+p224
+aVDodoBot
+p225
+aVHersfoldArbClerkBot
+p226
+aVThadius856AWB
+p227
+aVUcuchaBot
+p228
+aVImage Screening Bot
+p229
+aVBrokenAnchorBot
+p230
+aVYobot
+p231
+aVChobot
+p232
+aVBibcode Bot
+p233
+aVFiledelinkerbot
+p234
+aVCommonsNotificationBot
+p235
+aVAAlertBot
+p236
+aVRebelRobot
+p237
+aVLatitudeBot
+p238
+aVGrashoofdBot
+p239
+aVThe Anomebot2
+p240
+aVMandelBot
+p241
+aVFACBot
+p242
+aVSelketBot
+p243
+aVViskonBot
+p244
+aVLyricsBot
+p245
+aVEranBot
+p246
+aVHBC AIV helperbot
+p247
+aVHBC AIV helperbot 8
+p248
+aVMediaWiki message delivery
+p249
+aVMCBot
+p250
+aVWxBot
+p251
+aVAlanBOT
+p252
+aVDeltaQuadBot
+p253
+aVWikiStatsBOT
+p254
+aVArticlesForCreationBot
+p255
+aVRjwilmsiBot
+p256
+aVT13bot
+p257
+aVSmackBot
+p258
+aVSimplebot
+p259
+aVCountryBot
+p260
+aVKaldariBot
+p261
+aVSoxBot VI
+p262
+aVLuasóg bot
+p263
+aVTaBOT-zerem
+p264
+aVDYKUpdateBot
+p265
+aVWerdnabot
+p266
+aVBrownBot
+p267
+aVJeffGBot
+p268
+aVEdwardsBot
+p269
+aVMartinBotIII
+p270
+aVMonkbot
+p271
+aVLowercase sigmabot III
+p272
+aVBota47
+p273
+aVAcebot
+p274
+aVWASDbot
+p275
+aVHmainsbot1
+p276
+aVManishbot
+p277
+aVZscoutBot
+p278
+aVWolfBot
+p279
+aVKakashi Bot
+p280
+aVMGA73bot
+p281
+aVEmausBot
+p282
+aVRM bot
+p283
+aVDPL bot
+p284
+aVMdann52 bot
+p285
+aVThehelpfulbot
+p286
+aVAfDBot
+p287
+aVSvickBOT
+p288
+aVTPBot
+p289
+aVYiFeiBot
+p290
+aVTARBOT
+p291
+aVMastiBot
+p292
+aVOgreBot
+p293
+aVMenoBot
+p294
+aVInceptionBot
+p295
+aVVoABot
+p296
+aVPDFbot
+p297
+aVShepBot
+p298
+aVNukeBot
+p299
+aVAMbot
+p300
+aVKasparBot
+p301
+aVJatBot
+p302
+aVNomenclaturebrowser
+p303
+aVLucasbfrbot
+p304
+aVAmeliorationBot
+p305
+aVJoe's Olympic Bot
+p306
+aVBepBot
+p307
+aVJackieBot
+p308
+aVBogBot
+p309
+aVWybot
+p310
+aVMuZebot
+p311
+aVPC78-bot
+p312
+aVSnowbot
+p313
+aVLowercase sigmabot
+p314
+aVXqbot
+p315
+aVJ Milburn Bot
+p316
+aVObersachsebot
+p317
+aVHtonlBot
+p318
+aVThe Anonybot
+p319
+aVDixonDBot
+p320
+aVSprinterBot
+p321
+aVDRN clerk bot
+p322
+aVMessageDeliveryBot
+p323
+aVPDBbot
+p324
+aVRaptureBot
+p325
+aVImage-req-proj-bot
+p326
+aVPhotoCatBot
+p327
+aVBracketBot
+p328
+aVLt-wiki-bot
+p329
+aVChzzBot IV
+p330
+aVAdambroBot
+p331
+aVChrisbot
+p332
+aVYekratsBot~enwiki
+p333
+aVBG19bot
+p334
+aVChzzBot II
+p335
+aVMoohanBOT
+p336
+aVENewsBot
+p337
+aVFeedBot
+p338
+aVSelectionBot
+p339
+aVOrphanBot
+p340
+aVWelcomerBot
+p341
+aVMahdiBot
+p342
+aVAstRoBot
+p343
+aVReferenceBot
+p344
+aVAvicBot
+p345
+aVBattyBot
+p346
+aVOpenlibraryBot
+p347
+aVBotMultichill
+p348
+aVRtz-bot
+p349
+aVAloysiusLiliusBot
+p350
+aVPeople-photo-bot
+p351
+aVSatyrBot
+p352
+aVAudeBot
+p353
+aVJamietwBot
+p354
+aVRyan Vesey Bot
+p355
+aVRoboMaxCyberSem
+p356
+aVSineBot
+p357
+aVCerabot~enwiki
+p358
+aVSnotbot
+p359
+aVPetan-Bot
+p360
+aVKotbot
+p361
+aVMotinBot
+p362
+aVWildBot
+p363
+aVRagesossBot
+p364
+aVTsca.bot
+p365
+aVClueBot III
+p366
+aVCheMoBot
+p367
+aVNVS(bot)
+p368
+aVDarafshBot
+p369
+aVMediationBot
+p370
+aVJoe's Null Bot
+p371
+aVCollabsearch
+p372
+aVArmbrustBot
+p373
+aVContinuityBot
+p374
+aVAkhtaBot
+p375
+aVPCbot
+p376
+aVAPersonBot
+p377
+aVTinucherianBot
+p378
+aVDexbot
+p379
+aVXZeroBot
+p380
+aVWMUKBot
+p381
+aVKLBot2
+p382
+aVCarsracBot
+p383
+aVChris G Bot 3
+p384
+aVFPBot
+p385
+aVFluxbot
+p386
+aVCitationCleanerBot
+p387
+aVAvicBot2
+p388
+aVMathbot
+p389
+aVLegobot
+p390
+aVNationalRegisterBot
+p391
+aVAttributionBot
+p392
+aVAilurophobiaBot
+p393
+aVCanisRufus
+p394
+aVBotdeSki
+p395
+aVQOTDBot
+p396
+aVWpp research bot
+p397
+aVCitation bot 4
+p398
+aVCitation bot 2
+p399
+aVCitation bot 3
+p400
+aVCitation bot 1
+p401
+aVDefconBot
+p402
+aVBot1058
+p403
+aVSuggestBot
+p404
+aVJBradley Bot
+p405
+aVReedy Bot
+p406
+aV718 Bot
+p407
+aVMiszaBot
+p408
+aVSebrevBOT
+p409
+aVSunCreatorBot
+p410
+aVHostBot
+p411
+aVVP-bot
+p412
+aVPhilosopher-Bot
+p413
+aVDumbBOT
+p414
+atp415
+Rp416
+.

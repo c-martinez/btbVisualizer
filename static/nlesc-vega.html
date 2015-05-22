@@ -1,0 +1,53 @@
+<script src="d3.min.js"></script>
+<script src="vega.min.js"></script>
+
+<link rel="import" href="polymer.html">
+
+<!--
+Element providing solution to no problem in particular.
+
+##### Example
+
+    <nlesc-vega></nlesc-vega>
+
+@element nlesc-vega
+@blurb Element providing solution to no problem in particular.
+@status alpha
+@homepage http://NLeSCWebComponents.github.io/nlesc-vega
+
+
+-->
+<polymer-element name="nlesc-vega" attributes="spec">
+  <script>
+    function loadSpec(polymerElement) {
+      spec = polymerElement.spec;
+      polymerElement.chart = vg.parse.spec(polymerElement.spec, function(chart) {
+        polymerElement.view = chart({
+          el: polymerElement
+        });
+        polymerElement.view.update();
+      });
+    }
+    Polymer({
+      /**
+       * The `spec` attribute tells where is JSON specification for the plot
+       *
+       * @attribute spec
+       * @type string
+       * @default 'spec.json'
+       */
+      spec: 'spec.json',
+
+      specChanged: function(oldValue, newValue) {
+        loadSpec(this);
+      },
+      dataChanged: function(oldData, newData) {
+        this.view.data({"table": newData });
+        this.view.update();
+      },
+
+      ready: function() {
+      }
+    });
+  </script>
+</polymer-element>

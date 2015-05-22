@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>nlesc-vega Demo</title>
+  <script src="webcomponents.js"></script>
+  <link rel="import" href="nlesc-vega.html">
+  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script>
+    var debugData = {};
+    function triggerChange() {
+      targetWord = $('#queryWord').val();
+      targetURL = 'http://localhost:5000/wikicontrib/' + targetWord;
+
+      $('#veContribs').get(0).data = [];
+      $('#veScores').get(0).data = [];
+      $('#wikititle').text(targetWord);
+
+      $.ajax({
+        dataType: "json",
+        url: targetURL,
+        success: function(data) {
+          $('#veContribs').get(0).data = data['observedScore'];
+          $('#veScores').get(0).data = data['relativeScore'];
+        }
+      });
+    }
+  </script>
+</head>
+
+<body unresolved>
+  <h2>Example plots with nlesc-vega element</h2>
+  <h3>Referece</h3>
+  <nlesc-vega spec="barcountries.json"></nlesc-vega>
+  <h3 id="wikititle">Page</h3>
+  <nlesc-vega spec="barcountries.json" id="veContribs"></nlesc-vega>
+  <nlesc-vega spec="barcountries.json" id="veScores"></nlesc-vega>
+  <input type="text" id="queryWord" value="London"/>
+  <button onclick="triggerChange()" id="triggerButton">Update</button>
+</body>
+
+</html>

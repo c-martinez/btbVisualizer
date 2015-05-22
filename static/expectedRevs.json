@@ -1,0 +1,98 @@
+[
+  {
+    "country": "US",
+    "score": 0.383
+  },
+  {
+    "country": "UK",
+    "score": 0.132
+  },
+  {
+    "country": "IN",
+    "score": 0.069
+  },
+  {
+    "country": "CA",
+    "score": 0.054
+  },
+  {
+    "country": "AU",
+    "score": 0.036
+  },
+  {
+    "country": "PH",
+    "score": 0.026
+  },
+  {
+    "country": "DE",
+    "score": 0.015
+  },
+  {
+    "country": "BR",
+    "score": 0.011
+  },
+  {
+    "country": "IT",
+    "score": 0.01
+  },
+  {
+    "country": "IE",
+    "score": 0.01
+  },
+  {
+    "country": "PK",
+    "score": 0.009
+  },
+  {
+    "country": "FR",
+    "score": 0.008
+  },
+  {
+    "country": "ID",
+    "score": 0.008
+  },
+  {
+    "country": "NL",
+    "score": 0.008
+  },
+  {
+    "country": "MY",
+    "score": 0.008
+  },
+  {
+    "country": "IR",
+    "score": 0.007
+  },
+  {
+    "country": "ES",
+    "score": 0.007
+  },
+  {
+    "country": "CN",
+    "score": 0.007
+  },
+  {
+    "country": "NZ",
+    "score": 0.007
+  },
+  {
+    "country": "GR",
+    "score": 0.005
+  },
+  {
+    "country": "RU",
+    "score": 0.005
+  },
+  {
+    "country": "TR",
+    "score": 0.005
+  },
+  {
+    "country": "MX",
+    "score": 0.005
+  },
+  {
+    "country": "SE",
+    "score": 0.005
+  }
+]
