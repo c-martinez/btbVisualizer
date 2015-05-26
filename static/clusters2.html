@@ -12,10 +12,11 @@
     var debugData = {};
     function triggerChange() {
       targetWord = $('#queryWord').val();
-      targetURL = 'http://localhost:5000/wikicontrib/' + targetWord;
+      targetURL = '/wikicontrib/' + targetWord;
 
-      $('#veContribs').get(0).data = [];
-      $('#veScores').get(0).data = [];
+      $('#veObserved').get(0).data = [];
+      $('#veRelative').get(0).data = [];
+      $('#veMap').get(0).data = [];
       $('#wikititle').text(targetWord);
 
       $.ajax({

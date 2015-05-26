@@ -10,7 +10,7 @@
   "data": [
     {
       "name": "table",
-      "url": "http://localhost:5000/static/contribLondon.json",
+      "url": "/static/contribLondon.json",
       "format": {"type": "json", "property": "observedScore" }
     }
   ],
