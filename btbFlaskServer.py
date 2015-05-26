@@ -13,6 +13,7 @@ import btb.utils.wikiquery as wq
 
 import mwclient
 import pickle as pkl
+import pycountry as pyc
 
 import scipy.cluster.hierarchy
 
@@ -34,8 +35,15 @@ sanders_allCatNames = np.array(sandersFeatures['catNames'])
 
 
 def makeKeyMap(edits):
-    keyMap = [{'country': k, 'score': v} for k, v in edits.iteritems()]
+    keyMap = [{'country': k, 'score': v, 'countryCode': countryNumber(k)}
+              for k, v in edits.iteritems()]
     return sorted(keyMap, key=itemgetter('score'), reverse=True)
+
+
+def countryNumber(ctrAlpha):
+    if ctrAlpha == 'UK':
+        ctrAlpha = 'GB'
+    return pyc.countries.get(alpha2=ctrAlpha).numeric
 
 
 @app.route('/')

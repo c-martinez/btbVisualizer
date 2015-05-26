@@ -1,0 +1,369 @@
+{
+  "confidence": 0.49940898345153667,
+  "expectedScore": [
+    {
+      "country": "US",
+      "countryCode": "840",
+      "score": 0.383
+    },
+    {
+      "country": "UK",
+      "countryCode": "826",
+      "score": 0.132
+    },
+    {
+      "country": "IN",
+      "countryCode": "356",
+      "score": 0.069
+    },
+    {
+      "country": "CA",
+      "countryCode": "124",
+      "score": 0.054
+    },
+    {
+      "country": "AU",
+      "countryCode": "036",
+      "score": 0.036
+    },
+    {
+      "country": "PH",
+      "countryCode": "608",
+      "score": 0.026
+    },
+    {
+      "country": "DE",
+      "countryCode": "276",
+      "score": 0.015
+    },
+    {
+      "country": "BR",
+      "countryCode": "076",
+      "score": 0.011
+    },
+    {
+      "country": "IT",
+      "countryCode": "380",
+      "score": 0.01
+    },
+    {
+      "country": "IE",
+      "countryCode": "372",
+      "score": 0.01
+    },
+    {
+      "country": "PK",
+      "countryCode": "586",
+      "score": 0.009
+    },
+    {
+      "country": "FR",
+      "countryCode": "250",
+      "score": 0.008
+    },
+    {
+      "country": "ID",
+      "countryCode": "360",
+      "score": 0.008
+    },
+    {
+      "country": "NL",
+      "countryCode": "528",
+      "score": 0.008
+    },
+    {
+      "country": "MY",
+      "countryCode": "458",
+      "score": 0.008
+    },
+    {
+      "country": "IR",
+      "countryCode": "364",
+      "score": 0.007
+    },
+    {
+      "country": "ES",
+      "countryCode": "724",
+      "score": 0.007
+    },
+    {
+      "country": "CN",
+      "countryCode": "156",
+      "score": 0.007
+    },
+    {
+      "country": "NZ",
+      "countryCode": "554",
+      "score": 0.007
+    },
+    {
+      "country": "GR",
+      "countryCode": "300",
+      "score": 0.005
+    },
+    {
+      "country": "RU",
+      "countryCode": "643",
+      "score": 0.005
+    },
+    {
+      "country": "TR",
+      "countryCode": "792",
+      "score": 0.005
+    },
+    {
+      "country": "MX",
+      "countryCode": "484",
+      "score": 0.005
+    },
+    {
+      "country": "SE",
+      "countryCode": "752",
+      "score": 0.005
+    }
+  ],
+  "observedScore": [
+    {
+      "country": "UK",
+      "countryCode": "826",
+      "score": 0.5338461538461539
+    },
+    {
+      "country": "US",
+      "countryCode": "840",
+      "score": 0.17467455621301775
+    },
+    {
+      "country": "AU",
+      "countryCode": "036",
+      "score": 0.04473372781065089
+    },
+    {
+      "country": "CA",
+      "countryCode": "124",
+      "score": 0.037041420118343195
+    },
+    {
+      "country": "PK",
+      "countryCode": "586",
+      "score": 0.02497041420118343
+    },
+    {
+      "country": "IN",
+      "countryCode": "356",
+      "score": 0.020710059171597635
+    },
+    {
+      "country": "FR",
+      "countryCode": "250",
+      "score": 0.013846153846153847
+    },
+    {
+      "country": "DE",
+      "countryCode": "276",
+      "score": 0.013727810650887575
+    },
+    {
+      "country": "IT",
+      "countryCode": "380",
+      "score": 0.009704142011834319
+    },
+    {
+      "country": "IE",
+      "countryCode": "372",
+      "score": 0.009230769230769232
+    },
+    {
+      "country": "ES",
+      "countryCode": "724",
+      "score": 0.008639053254437869
+    },
+    {
+      "country": "SE",
+      "countryCode": "752",
+      "score": 0.008284023668639054
+    },
+    {
+      "country": "NL",
+      "countryCode": "528",
+      "score": 0.006863905325443787
+    },
+    {
+      "country": "BR",
+      "countryCode": "076",
+      "score": 0.005562130177514793
+    },
+    {
+      "country": "NZ",
+      "countryCode": "554",
+      "score": 0.0053254437869822485
+    },
+    {
+      "country": "RU",
+      "countryCode": "643",
+      "score": 0.0039053254437869823
+    },
+    {
+      "country": "PH",
+      "countryCode": "608",
+      "score": 0.0029585798816568047
+    },
+    {
+      "country": "CN",
+      "countryCode": "156",
+      "score": 0.0028402366863905324
+    },
+    {
+      "country": "TR",
+      "countryCode": "792",
+      "score": 0.0022485207100591716
+    },
+    {
+      "country": "MY",
+      "countryCode": "458",
+      "score": 0.0013017751479289942
+    },
+    {
+      "country": "MX",
+      "countryCode": "484",
+      "score": 0.0013017751479289942
+    },
+    {
+      "country": "GR",
+      "countryCode": "300",
+      "score": 0.0009467455621301775
+    },
+    {
+      "country": "IR",
+      "countryCode": "364",
+      "score": 0.0008284023668639054
+    },
+    {
+      "country": "ID",
+      "countryCode": "360",
+      "score": 0.00023668639053254438
+    }
+  ],
+  "relativeScore": [
+    {
+      "country": "UK",
+      "countryCode": "826",
+      "score": 0.7691243626690313
+    },
+    {
+      "country": "PK",
+      "countryCode": "586",
+      "score": 0.6634597156398105
+    },
+    {
+      "country": "FR",
+      "countryCode": "250",
+      "score": 0.4605128205128206
+    },
+    {
+      "country": "SE",
+      "countryCode": "752",
+      "score": 0.4364285714285715
+    },
+    {
+      "country": "AU",
+      "countryCode": "036",
+      "score": 0.24857142857142878
+    },
+    {
+      "country": "ES",
+      "countryCode": "724",
+      "score": 0.2434246575342467
+    },
+    {
+      "country": "IT",
+      "countryCode": "380",
+      "score": 0.03780487804878063
+    },
+    {
+      "country": "IE",
+      "countryCode": "372",
+      "score": -0.011406844106463643
+    },
+    {
+      "country": "DE",
+      "countryCode": "276",
+      "score": -0.019856358259399798
+    },
+    {
+      "country": "NL",
+      "countryCode": "528",
+      "score": -0.08111533586818742
+    },
+    {
+      "country": "RU",
+      "countryCode": "643",
+      "score": -0.16349809885931543
+    },
+    {
+      "country": "NZ",
+      "countryCode": "554",
+      "score": -0.18522542096686567
+    },
+    {
+      "country": "CA",
+      "countryCode": "124",
+      "score": -0.2653616861474908
+    },
+    {
+      "country": "BR",
+      "countryCode": "076",
+      "score": -0.4584629565618157
+    },
+    {
+      "country": "US",
+      "countryCode": "840",
+      "score": -0.5115607223341837
+    },
+    {
+      "country": "TR",
+      "countryCode": "792",
+      "score": -0.518377693282636
+    },
+    {
+      "country": "CN",
+      "countryCode": "156",
+      "score": -0.5654535578489951
+    },
+    {
+      "country": "IN",
+      "countryCode": "356",
+      "score": -0.6785510920078617
+    },
+    {
+      "country": "MX",
+      "countryCode": "484",
+      "score": -0.7211660329531051
+    },
+    {
+      "country": "GR",
+      "countryCode": "300",
+      "score": -0.7972116603295311
+    },
+    {
+      "country": "MY",
+      "countryCode": "458",
+      "score": -0.8257287705956907
+    },
+    {
+      "country": "IR",
+      "countryCode": "364",
+      "score": -0.8732572877059569
+    },
+    {
+      "country": "PH",
+      "countryCode": "608",
+      "score": -0.878132007409574
+    },
+    {
+      "country": "ID",
+      "countryCode": "360",
+      "score": -0.9683143219264893
+    }
+  ]
+}

@@ -22,8 +22,9 @@
         dataType: "json",
         url: targetURL,
         success: function(data) {
-          $('#veContribs').get(0).data = data['observedScore'];
-          $('#veScores').get(0).data = data['relativeScore'];
+          $('#veObserved').get(0).data = data['observedScore'];
+          $('#veRelative').get(0).data = data['relativeScore'];
+          $('#veMap').get(0).data = data['relativeScore'];
         }
       });
     }
@@ -33,10 +34,11 @@
 <body unresolved>
   <h2>Example plots with nlesc-vega element</h2>
   <h3>Referece</h3>
-  <nlesc-vega spec="barcountries.json"></nlesc-vega>
-  <h3 id="wikititle">Page</h3>
-  <nlesc-vega spec="barcountries.json" id="veContribs"></nlesc-vega>
-  <nlesc-vega spec="barcountries.json" id="veScores"></nlesc-vega>
+  <nlesc-vega spec="countriesExpected.json"></nlesc-vega>
+  <h3>Wikipedia page title: <div id="wikititle">London (example)</div></h3>
+  <nlesc-vega spec="countriesObserved.json" id="veObserved"></nlesc-vega>
+  <nlesc-vega spec="countriesRelative.json" id="veRelative"></nlesc-vega>
+  <nlesc-vega spec="countriesMap.json" id="veMap"></nlesc-vega>
   <input type="text" id="queryWord" value="London"/>
   <button onclick="triggerChange()" id="triggerButton">Update</button>
 </body>

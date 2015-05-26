@@ -10,7 +10,8 @@
   "data": [
     {
       "name": "table",
-      "url": "http://localhost:5000/static/expectedRevs.json"
+      "url": "http://localhost:5000/static/contribLondon.json",
+      "format": {"type": "json", "property": "relativeScore" }
     }
   ],
   "scales": [{
@@ -19,7 +20,7 @@
     "range": "width",
     "domain": {
       "data": "table",
-      "field": "data.country"
+      "field": "data.countryCode"
     }
   }, {
     "name": "y",
@@ -46,7 +47,7 @@
       "enter": {
         "x": {
           "scale": "x",
-          "field": "data.country"
+          "field": "data.countryCode"
         },
         "width": {
           "scale": "x",
