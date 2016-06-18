@@ -3,6 +3,7 @@ from flask import Flask
 from flask import jsonify
 from flask import request
 from flask import url_for
+from flask import redirect
 
 from operator import itemgetter
 from collections import defaultdict
@@ -48,7 +49,7 @@ def countryNumber(ctrAlpha):
 
 @app.route('/')
 def index():
-    return url_for('static', filename='clusters.html')
+    return redirect(url_for('static', filename='clusters2.html'))
 
 
 @app.route('/wikicontrib/<word>')

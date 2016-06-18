@@ -1,20 +1,16 @@
 # btbVisualizer
 ## Visualizations for Beyond the Book
 
-Start Flask server:
+Install required python packages:
+```
+pip install -r requirements.txt
+```
 
+Start Flask server:
 ```
 python btbFlaskServer.py
 ```
 
-Then visit, for bar chart visualization:
-
-```
-http://localhost:5000/static/clusters2.html
-```
-
-or for Dendrogram visualization:
-
-```
-http://localhost:5000/static/clusters.html
-```
+Then visit `http://localhost:5000/` for the visualizing Wikipedia country
+contributions.  Alternatively visit `http://localhost:5000/static/clusters.html`
+or for Dendrogram visualization of the Sanders features.
